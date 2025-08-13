@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -54,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
