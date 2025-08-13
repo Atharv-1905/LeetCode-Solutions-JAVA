@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0485-max-consecutive-ones) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
