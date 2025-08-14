@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1791-richest-customer-wealth) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
+| [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
