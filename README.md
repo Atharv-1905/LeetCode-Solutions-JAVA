@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 ## Array
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0485-max-consecutive-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1791-richest-customer-wealth) |
