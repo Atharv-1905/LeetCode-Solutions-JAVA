@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
+| [0867-new-21-game](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1448-maximum-69-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0152-maximum-product-subarray) |
+| [0867-new-21-game](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0867-new-21-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1791-richest-customer-wealth) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
