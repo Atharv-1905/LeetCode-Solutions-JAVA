@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1603-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0867-new-21-game](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0867-new-21-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
