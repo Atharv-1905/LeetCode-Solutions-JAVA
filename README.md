@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1791-richest-customer-wealth) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0035-search-insert-position) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
