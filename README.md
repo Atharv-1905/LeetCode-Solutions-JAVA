@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
