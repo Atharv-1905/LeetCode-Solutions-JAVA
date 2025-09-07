@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
+| [2481-strictly-palindromic-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2481-strictly-palindromic-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0867-new-21-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
