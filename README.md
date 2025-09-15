@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
+| [1720-crawler-log-folder](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1720-crawler-log-folder) |
 | [1791-richest-customer-wealth](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1848-sum-of-unique-elements) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0014-longest-common-prefix) |
+| [1720-crawler-log-folder](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1720-crawler-log-folder) |
 ## Trie
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
