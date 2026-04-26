@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0014-longest-common-prefix) |
+| [0709-to-lower-case](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0709-to-lower-case) |
 | [1720-crawler-log-folder](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1720-crawler-log-folder) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
