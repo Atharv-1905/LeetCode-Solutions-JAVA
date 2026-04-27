@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0978-valid-mountain-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0978-valid-mountain-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1848-sum-of-unique-elements) |
@@ -120,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1848-sum-of-unique-elements) |
 ## Simulation
@@ -156,9 +161,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1720-crawler-log-folder) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
