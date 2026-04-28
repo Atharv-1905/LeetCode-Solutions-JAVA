@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
