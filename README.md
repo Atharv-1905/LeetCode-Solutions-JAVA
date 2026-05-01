@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0605-can-place-flowers) |
 | [0978-valid-mountain-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0978-valid-mountain-array) |
+| [1089-duplicate-zeros](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1089-duplicate-zeros) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1293-three-consecutive-odds](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
+| [1089-duplicate-zeros](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1089-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
