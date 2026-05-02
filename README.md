@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1448-maximum-69-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2481-strictly-palindromic-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
 |  |
