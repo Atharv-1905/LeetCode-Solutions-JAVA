@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0605-can-place-flowers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0978-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1089-duplicate-zeros) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1089-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
