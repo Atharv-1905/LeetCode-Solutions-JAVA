@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0162-find-peak-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/2210-find-target-indices-after-sorting-array) |
