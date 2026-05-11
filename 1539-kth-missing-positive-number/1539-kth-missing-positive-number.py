@@ -1,8 +1,13 @@
 class Solution:
     def findKthPositive(self, arr: List[int], k: int) -> int:
-        for num in arr:
-            if num <= k:
-                k+=1
+        left, right = 0, len(arr)-1
+        while left <= right:
+            mid = (left + right) // 2
+
+            missing = arr[mid] - (mid + 1)
+
+            if missing < k:
+                left = mid+1
             else:
-                break
-        return k
+                right = mid-1
+        return left + k
