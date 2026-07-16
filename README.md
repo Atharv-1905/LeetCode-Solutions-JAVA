@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0409-longest-palindrome) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0709-to-lower-case) |
 | [1720-crawler-log-folder](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1720-crawler-log-folder) |
