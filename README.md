@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0242-valid-anagram) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0709-to-lower-case) |
