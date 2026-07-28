@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0978-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1089-duplicate-zeros) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/0704-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1966-frequency-of-the-most-frequent-element) |
