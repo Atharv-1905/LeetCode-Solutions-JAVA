@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1720-crawler-log-folder) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Atharv-1905/LeetCode-Solutions-JAVA/tree/master/1848-sum-of-unique-elements) |
